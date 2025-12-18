@@ -1,0 +1,14 @@
+title: "Agata Wolna"
+description: "Postdoctoral researcher | Cognitive neuroscience of language | MIT"
+theme: minima
+
+# (Optional but nice)
+author:
+  name: "Agata Wolna"
+
+# Navigation (works with GitHub Pages’ current Minima 2.x)
+header_pages:
+  - about.md
+  - cv.md
+  - papers.md
+  - projects.md
