@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "_DSC0106-2.jpg"
+  name             : "Agata Wolna"
+  bio              : "Postdoctoral researcher at McGovern Institute for Brain Research, MIT"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "MIT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "awolna@mit.edu" 
 
   # Academic websites
   academia         : # URL
