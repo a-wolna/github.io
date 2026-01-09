@@ -13,7 +13,7 @@ site_theme: "default"        # "default", "air", "sunrise", "mint", "dirt", "con
 # --- Author sidebar ---
 author:
   name: "Agata Wolna"
-  avatar: "/images/_DSC0106-2.jpg"
+  avatar: "profile.jpg"
   bio: "Postdoctoral researcher, McGovern Institute for Brain Research, MIT"
   employer: "MIT"
   email: "awolna@mit.edu"
