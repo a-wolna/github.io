@@ -82,8 +82,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  manuscripts:
-    title: 'Journal Articles'    
+  Language system:
+    title: 'Language system in the brain'  
+  Bilingualism:
+    title: 'Bilingualism'
+  In Polish, on language and bilingualism:
+    title: 'In Polish, on language and bilingualism'
+  Other work:
+    title: 'Other'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
