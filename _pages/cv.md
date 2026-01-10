@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[See full **CV**)]({{ site.baseurl }}/files/CV AWolna Nov2025.pdf)
+Download my full [**CV**]({{ site.baseurl }}/files/CV AWolna Nov2025.pdf)
 
 Education
 =========
