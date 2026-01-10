@@ -36,9 +36,7 @@ Awards and Honors
 
 Publications
 ============
-{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
+See my publications [**here**](/publications/).
 
 Funding
 ===================
