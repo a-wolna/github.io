@@ -5,8 +5,11 @@ author_profile: true  # optional, shows the left sidebar profile on that page
 ---
 
 I am a **postdoctoral researcher** in [Ev Fedorenko’s Language Lab (EvLab)](https://www.evlab.mit.edu/) at MIT.
-In my work I explore the characteristics of the neural system supporting the natural langauge processing, and its relationship to speech articulation and speech perception. I also work on topics related to bilingualism trying to understand how language system supports and organizes two languages in one mind.
+In my work I explore the characteristics of the neural system supporting the natural langauge processing, and its relationship to speech articulation and speech perception. I also work on topics related to bilingualism trying to understand how functional systems in the brain support and organize two languages in one mind.
 
-I completed by Ph.D. in [Cognitive Neuroscience Program](https://cognes.uj.edu.pl) at the Jagiellonian University in Kraków where I worked with Prof. Zofia Wodniecka in the [Psychology of Language and Bilingualism Lab](https://langusta.psychologia.uj.edu.pl/).
+I completed my Ph.D. in [Cognitive Neuroscience Program](https://cognes.uj.edu.pl) at the Jagiellonian University in Kraków where I worked with Prof. Zofia Wodniecka in the [Psychology of Language and Bilingualism Lab](https://langusta.psychologia.uj.edu.pl/).
 
 ----
+
+For a list of my publications see: [**publications**](/publications)
+For more information on my current projects see: [**projects**](/projects)
