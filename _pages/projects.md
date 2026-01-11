@@ -5,6 +5,13 @@ permalink: /projects/
 author_profile: true
 ---
 
+## List of projects:
+- [Neural basis of speech articulation and high-level language processing](#neural-basis-of-speech-articulation-and-high-level-language-processing)
+- [Characterization of the non-canonical language regions in the brain](#characterization-of-the-non-canonical-language-regions-in-the-brain)
+- [Brain basis of bilingualism](#brain-basis-of-bilingualism)
+- [Interesting Brains](#interesting-brains)
+
+
 ## Neural basis of speech articulation and high-level language processing
 ---
 In this line of my research I explore the functional specialization of the speech-articulation and high-level language system. Since speech production has often been studied using paradigms that conflate language processing and articulation (e.g., picture naming), it is unclear to what extent these two functions rely on independent or overlapping mechanisms.
@@ -28,11 +35,12 @@ In this line of my research I study the characteristics of the high-level langua
    **key papers:**  
    - the "extended language network": characterization of non-canonical regions responding to language [preprint](/files/publications/2025-biorxiv-ExtendedLanguageNetwork.pdf)  
    - langauge in the cerebellum (led by Colton Casto) [preprint](https://www.biorxiv.org/content/10.1101/2025.04.14.645351v1)  
+
 ➡️ the lateralization of langauge & its relationship to the lateralization of the neighbouring speech articulation and speech perception systems  
 
 ## Brain basis of bilingualism
 ---
-Comming soon!
+Coming soon!
 
 ## Interesting brains
 ---
