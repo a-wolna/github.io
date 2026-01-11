@@ -16,7 +16,7 @@ The **aims of this project** include:
 **key results:**  
 Speech articulation engages a bilateral set of temporal and sensimotor regions which show very different functional profiles than the fronto-temporal language system:  
 
-![Alt text](images/projects/lang_artic_profiles.png)  
+![Alt text](/images/projects/lang_artic_profiles.png)  
 
 Look out for a preprint comming soon!
 
