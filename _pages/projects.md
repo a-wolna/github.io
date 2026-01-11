@@ -34,7 +34,7 @@ In this line of my research I study the characteristics of the high-level langua
 ➡️ identification and characterization of the non-canonical language regions
 - **key papers:**  
    - the "extended language network": characterization of non-canonical regions responding to language [preprint](/files/publications/2025-biorxiv-ExtendedLanguageNetwork.pdf)  
-   - langauge in the cerebellum (led by Colton Casto) [preprint](https://www.biorxiv.org/content/10.1101/2025.04.14.645351v1)  
+   - language in the cerebellum (led by Colton Casto) [preprint](https://www.biorxiv.org/content/10.1101/2025.04.14.645351v1)  
 
 ➡️ the lateralization of langauge & its relationship to the lateralization of the neighbouring speech articulation and speech perception systems  
 
