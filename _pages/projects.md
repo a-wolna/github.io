@@ -31,8 +31,8 @@ Look out for a preprint comming soon!
 ---
 In this line of my research I study the characteristics of the high-level language system in the brain, including, but not limited to:  
 
-➡️ identification and characterization of the non-canonical language regions  
-   **key papers:**  
+➡️ identification and characterization of the non-canonical language regions
+- **key papers:**  
    - the "extended language network": characterization of non-canonical regions responding to language [preprint](/files/publications/2025-biorxiv-ExtendedLanguageNetwork.pdf)  
    - langauge in the cerebellum (led by Colton Casto) [preprint](https://www.biorxiv.org/content/10.1101/2025.04.14.645351v1)  
 
