@@ -12,8 +12,8 @@ redirect_from:
 
 ---
 
-Education
-=========
+## Education
+---
 * **Ph.D. in Cognitive Neuroscience**, Jagiellonian University (2018-2023)  
   *Dissertation*: Understanding engagement of language control in bilingual speech production
   *Advisors*: Zofia Wodniecka & Jakub Szewczyk
@@ -22,18 +22,18 @@ Education
   *Thesis*: The origins of the L2 after-effect in bilingual language production: an ERP investigation
   *Advisors*: Zofia Wodniecka
 
-Publications
-============
+## Publications
+---
 See my publications [**here**](/publications/).
 
-Funding
-===================
+## Funding
+---
   * Postdoctoral Fellowship, Simons Centre for the Social Brain (2025-2027)
   * Preludium grant, National Science Centre in Poland (2022-2026)
   * Intramural grants for early career researchers, Jagiellonian University (2022)
 
-Awards and Honors
-==================
+## Awards and Honors
+---
 * Patrick McGovern Travel and Technology Award (2025)
 * Travel Award, Society for Neurobiology of Language (2023)
 * Scientific Committee Award for the best talk, Aspects of Neuroscience, Warsaw (2021)
