@@ -27,7 +27,7 @@ All my work can be found on my [Google Scholar profile](https://scholar.google.c
 - Timmer, K., **Wolna, A.**, & Wodniecka, Z. (2024). The impact of cues on language switching: do spoken questions reduce the need for bilingual language control? *Bilingualism: Language and Cognition* 1-19. [DOI](https://doi.org/10.1017/S1366728924000841) [PDF](/files/publications/2025-BLC-ImpactOfCuesOnLST.pdf)
 - Casado, A., Walther, J., **Wolna, A.**, Szewczyk, J., Sorace, A., Wodniecka, Z. (2023) Advantages of visiting your home country: how brief reimmersion in their native country impacts migrants’ native language access. *Bilingualism Language and Cognition*, 1–12. [DOI](https://doi.org/10.1017/S136672892300024X)
 - Casado, A., Szewczyk, J., **Wolna, A.**, Wodniecka, Z. (2022) The relative balance between languages predicts the degree of engagement of global language control. *Cognition*, 226, 105169. [DOI](https://doi.org/10.1016/j.cognition.2022.105169) [PDF](/files/publications/2022-Cognition-RelativeBalance.pdf)
-- Wodniecka, Z., Casado, A., Kałamała, P., Marecka, M., Timmer, K., *Wolna, A.* (2020). The dynamics of language experience and how it affects language and cognition. In Psychology of Learning and Motivation (Vol. 72, pp. 235-281). Academic Press. [DOI](https://doi.org/10.1016/bs.plm.2020.02.005) [PDF](/files/publications/2020-PLM-DynamicsOfLanguageExperience.pdf)
+- Wodniecka, Z., Casado, A., Kałamała, P., Marecka, M., Timmer, K., **Wolna, A.** (2020). The dynamics of language experience and how it affects language and cognition. In Psychology of Learning and Motivation (Vol. 72, pp. 235-281). Academic Press. [DOI](https://doi.org/10.1016/bs.plm.2020.02.005) [PDF](/files/publications/2020-PLM-DynamicsOfLanguageExperience.pdf)
 
 ## Other work
 ---
